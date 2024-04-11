@@ -9,3 +9,6 @@ now i am chanigng the main branch
 
 
 now i am creating a file name f5 in the same and without commiting the file i am creating a new branch
+
+
+now i will merge this branch with the main branch to see the changes 
