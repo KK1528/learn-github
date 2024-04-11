@@ -12,3 +12,6 @@ now i am creating a file name f5 in the same and without commiting the file i am
 
 
 now i will merge this branch with the main branch to see the changes 
+
+
+i have deleted the branch but cant see the reflection of the command on the github
